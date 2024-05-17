@@ -9,3 +9,9 @@ body {
     background-color: white;
     color: black;
 }
+
+header, main, footer {
+    margin: 10px;
+    background-color: azure;
+    padding: 10px;
+}
